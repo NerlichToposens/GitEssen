@@ -1,2 +1,3 @@
 Krosse Krabbe Pizza
+<<<<<<< HEAD
 Pflanze
